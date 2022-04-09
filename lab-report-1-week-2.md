@@ -1,1 +1,1 @@
-![Image](dice.png)
+![Image](Screenshot.png)
