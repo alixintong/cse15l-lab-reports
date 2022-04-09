@@ -18,6 +18,7 @@ Some text here
 3. Number three
 
 x-axis runs along here
+___
 
 `gray area` not gray area
 # Code block here
