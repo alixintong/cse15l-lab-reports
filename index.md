@@ -7,7 +7,7 @@ Some text here
 [Link](http://minesweeperonline.com)
 
 ![Image](http://url/a.png)
-![Image](https://url/dice.png)
+![Image](https://dice.png)
 
 >A blockquote here
 * Listing one
