@@ -20,7 +20,7 @@ Some text here
 x-axis runs along here
 ___
 
-`gray area` not gray area
+`gray area` !gray area
 # Code block here
 print `something here`
 print `another thing here`
