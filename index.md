@@ -24,3 +24,5 @@ ___
 # Code block here
 print `something here`
 print `another thing here`
+
+[Lab Report 1](https://alixintong.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
