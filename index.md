@@ -10,9 +10,9 @@ Some text here
 ![Image](https://url/dice.png)
 
 >A blockquote here
-*Listing one
-*Listing two
-*Listing three
+* Listing one
+* Listing two
+* Listing three
 
 1. Number one
 2. Number two
