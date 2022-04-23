@@ -6,7 +6,7 @@
 
 ![Image](4-1.png)
 
-Link to file with failure-inducing input: [file 4](https://alixintong.github.io/markdown-parser/test-file-4.html)
+Link to file with failure-inducing input: [file 4 pages](https://alixintong.github.io/markdown-parser/test-file-4.html), [file 4](https://github.com/alixintong/markdown-parser/blob/main/test-file-4.md?plain=1)
 \
 \
 Symptom of the error-inducing input: `StringIndexOutOfBoundsException` exception.
@@ -18,7 +18,7 @@ Here, the bug, that there was no indicator `[link]` for the failure-inducing inp
 
 ![Image](4-2.png)
 
-Link to file with failure-inducing input: [file 3](https://alixintong.github.io/markdown-parser/test-file-3.html)
+Link to file with failure-inducing input: [file 3 pages](https://alixintong.github.io/markdown-parser/test-file-3.html), [file 3](https://github.com/alixintong/markdown-parser/blob/main/test-file-3.md?plain=1)
 \
 \
 Symptom of the error-inducing input: `StringIndexOutOfBoundsException` exception.
@@ -30,7 +30,7 @@ Similar to the first error, our failure-inducing input here is that we have `[li
 
 ![Image](4-3.png)
 
-Link to file with failure-inducing input: [file 2](https://alixintong.github.io/markdown-parser/test-file-2.html)
+Link to file with failure-inducing input: [file 2 pages](https://alixintong.github.io/markdown-parser/test-file-2.html), [file 2](https://github.com/alixintong/markdown-parser/blob/main/test-file-2.md?plain=1)
 \
 \
 Symptom of the error-inducing input: `[a-, https://minesweeperonline.com/#200]`, does not return the full first link.
