@@ -34,4 +34,5 @@ Now we can compile and run the tests for our repository:
 we can combine `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line:
 \
 `scp -r . ieng6:markdown-parse; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.12.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.12.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"` to result in
+![Image](6-10.png)
 ![Image](6-9.png)
