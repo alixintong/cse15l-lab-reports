@@ -23,7 +23,7 @@ Now we can make a change and use a `git` command to commit and push a change to 
 ![Image](6-6.png)
 
 We have added a new method, `add` to the `skilldemo` directory:
-![Link](https://github.com/alixintong/skilldemo/blob/main/SkillDemo.java)
+[Link](https://github.com/alixintong/skilldemo/blob/main/SkillDemo.java)
 
 ## Copy whole directories with `scp -r`
 
