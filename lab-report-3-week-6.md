@@ -12,6 +12,7 @@ Now we can log into the remote account with the `ssh` command using the alias `i
 
 Now we can use the `scp` command to copy the `Markdownparse.java` file to the remote account using just `ieng6`:
 ![Image](6-3.png)
+![Image](6-11.png)
 
 ## Setup Github Access from ieng6
 
@@ -28,6 +29,7 @@ We have added a new method, `add` to the `skilldemo` directory:
 ## Copy whole directories with `scp -r`
 
 We have copied the whole markdown-parse directory to our ieng6 account:
+![Image](6-12.png)
 ![Image](6-7.png)
 Now we can compile and run the tests for our repository:
 ![Image](6-8.png)
@@ -35,4 +37,5 @@ we can combine `scp`, `;`, and `ssh` to copy the whole directory and run the tes
 \
 `scp -r . ieng6:markdown-parse; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.12.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.12.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"` to result in
 ![Image](6-10.png)
-![Image](6-9.png)
+And scrolling down a little,
+![Image](6-13.png)
