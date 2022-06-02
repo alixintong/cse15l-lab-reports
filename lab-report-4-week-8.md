@@ -7,7 +7,7 @@ Link to my `markdown-parse` repository: [link](https://github.com/alixintong/mar
 Link to `markdown-parse` reviewed in Week 7: [link](https://github.com/Shresthhooda/markdown-parser)
 
 Here are the tests added, with the correct outputs added using [CommonMark](https://spec.commonmark.org/dingus/):
-![Image](8-1.png)
+![Image](8-1v2.png)
 
 ## Results for my implementation
 All three added tests did not pass.
