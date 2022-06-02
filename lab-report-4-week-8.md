@@ -12,20 +12,20 @@ Here are the tests added, with the correct outputs added using [CommonMark](http
 ## Results for my implementation
 All three added tests did not pass.
 Test failure for `snippet 1`:
-![Image](8-2.png)
+![Image](8-2v2.png)
 Test failure for `snippet 2`:
-![Image](8-3.png)
+![Image](8-3v2.png)
 Test failure for `snippet 3`:
-![Image](8-4.png)
+![Image](8-4v2.png)
 
 ## Results for reviewed implementation
 All three added tests did not pass.
 Test failure for `snippet 1`:
-![Image](8-5.png)
+![Image](8-5v2.png)
 Test failure for `snippet 2`:
-![Image](8-6.png)
+![Image](8-6v2.png)
 Test failure for `snippet 3`:
-![Image](8-7.png)
+![Image](8-7v2.png)
 
 ## Conclusion
 For snippet 1, I think there exists a small code change such that my `markdown-parse` can account for backticks. 
