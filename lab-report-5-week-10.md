@@ -28,3 +28,8 @@ then it automatically returns what was given. This is because early in developme
 \
 Here is where the code should be fixed, so that if there are no parentheses, then it should return nothing:
 ![Image](10-3.png)
+
+For `test-files/14.md`, the shared repo result is incorrect since it does not check for `\` before any link brackets, which invalidates the link.
+\
+Here is where the code can be fixed, so that there is an extra if-statement within the while loop and after the first if-statement to catch such a case where `\` might appear before and does not return the link:
+![Image](10-4v2.png)
